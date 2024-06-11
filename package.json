@@ -1,0 +1,22 @@
+{
+  "name": "@muhammad_sami123/simple-calculato0r",
+  "version": "1.0.3",
+  "description": "this is a simple calculator with typescript , node.js and inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js" ,
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "muhammad sami asghar mughal",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
